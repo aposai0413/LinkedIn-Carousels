@@ -56,25 +56,6 @@ This repository organizes all LinkedIn Carousel content related to Cybersecurity
         ├── KPIs vs OKRs in Security
         └── Security Posture Maturity Models
 ```
-
----
-
-## 📄 Folder Contents Standardization
-
-Every topic folder follows the same sub-structure:
-
-```plaintext
-🖼️ /Designs       → Exported images for LinkedIn upload
-✍️ /Copy          → Slide text content
-📄 /Resources     → Reference materials, research notes
-📅 /Analytics     → Performance metrics after posting
-```
-
-Example naming convention:
-```
-2025-01-22_Data-Classification_v1
-```
-
 ---
 
 ## 🎯 Purpose & Strategy
