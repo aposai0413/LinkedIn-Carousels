@@ -34,5 +34,3 @@ These carousels are created to:
 ✔ Threat Intelligence Basics  
 
 ---
-
-If you need to update or add a new carousel, maintain this file to keep track of the evolving collection.

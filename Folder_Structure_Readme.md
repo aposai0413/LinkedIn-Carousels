@@ -60,7 +60,6 @@ This repository organizes all LinkedIn Carousel content related to Cybersecurity
 
 ## 🎯 Purpose & Strategy
 
-- Maintain consistent carousel branding and messaging
 - Publish weekly content to strengthen cybersecurity influence
 - Support beginners and professionals with practical learning content
 - Enable easy repurposing into PDFs, blogs, and newsletters
@@ -68,4 +67,3 @@ This repository organizes all LinkedIn Carousel content related to Cybersecurity
 ---
 
 ✅ This structure will evolve as more content is created.  
-Feel free to update this file whenever new topics are added.
